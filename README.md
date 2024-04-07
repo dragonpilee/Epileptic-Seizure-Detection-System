@@ -1,4 +1,4 @@
-# Epileptic Seizure Detection with EEG Signals
+# Epileptic Seizure Detection with Wavelet Transform
 
 ![Epileptic Seizure](https://st1.thehealthsite.com/wp-content/uploads/2022/08/Epileptic-Seizures-1.jpg?impolicy=Medium_Widthonly&w=400)
 
