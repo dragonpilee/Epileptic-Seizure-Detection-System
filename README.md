@@ -78,6 +78,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 Special thanks to:
+- Alan Cyril Sunny for his contributions and support throughout the project development.
 - Bonn University for providing the EEG dataset used in this project.
 - Contributors to open-source libraries and frameworks used in the implementation.
 - Research studies and literature sources that provided valuable insights and guidance.
