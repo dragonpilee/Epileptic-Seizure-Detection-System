@@ -50,6 +50,7 @@ The project is built using the following technologies and libraries:
 - **scikit-learn**: Library for machine learning algorithms and tools.
 - **Keras**: High-level neural networks API, running on top of TensorFlow or Theano.
 - **Jupyter Notebook**: Interactive computing environment for code development and experimentation.
+- **Google Compute Engine**: Backend for running Python3 scripts and interacting with Google Cloud services.
 - **Google Colab**: Cloud-based Jupyter notebook environment provided by Google for running Python code and machine learning experiments.
 
 ## Implementation
