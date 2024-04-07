@@ -1,6 +1,6 @@
 # Epileptic Seizure Detection with EEG Signals
 
-![Epileptic Seizure](https://image.freepik.com/free-photo/woman-having-epileptic-seizure_1303-11592.jpg)
+![Epileptic Seizure](https://st1.thehealthsite.com/wp-content/uploads/2022/08/Epileptic-Seizures-1.jpg?impolicy=Medium_Widthonly&w=400)
 
 Epileptic Seizure Detection with EEG Signals is a project aimed at developing a machine learning solution to detect epileptic seizures using EEG (Electroencephalography) signals. The project utilizes advanced techniques such as wavelet transform, feature extraction, and classification algorithms to accurately identify seizure activity in EEG recordings.
 
